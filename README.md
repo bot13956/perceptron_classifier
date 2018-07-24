@@ -5,6 +5,7 @@ Versicolor for practical reasons. However, the perceptron algorithm can be exten
 For more information about the implementation of Rosenblatt's perceptron algorithm, see the following book:"Python Machine Learning" by Sebastian Raschka.
 
 Created on Tue Jul 24, 2018
+
 @author: Benjamin Tayo
 
 iris.data.csv: contains the iris dataset obtained from: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
