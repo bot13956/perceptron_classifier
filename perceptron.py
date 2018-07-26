@@ -1,7 +1,7 @@
 
 """
 This code applies the perceptron classification algorithm to the iris data set.
-The weights used for computing te activation function are calculated using the least-square method.
+The weights used for computing the activation function are calculated using the least-square method.
 This method is different from Rosenblatt's initial perceptron rule where the weights are calculated recursively.
 For more information about the implementation of Rosenblatt's perceptron algorithm, see the following book:
  	
